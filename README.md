@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CihatEmreCinar/CihatEmreCinar/output/snake.svg" alt="Snake animation" />
+
 
 ###
