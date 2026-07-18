@@ -99,12 +99,16 @@
 <td width="15%" valign="top"><b>Broadcast<br/>Systems</b></td>
 <td width="85%">
 
-Work across the Vizrt ecosystem — Viz Mosart, Viz Artist, Viz Engine, MSE — spanning newsroom integration, playout troubleshooting, and system-level comparative analysis.
+Vizrt Software Support — end-to-end ownership of Vizrt deployments across the ecosystem: Viz Mosart, Viz Artist, Viz Engine, MSE.
 
+- End-to-end Vizrt installation, configuration, and version control across environments
+- Licensing management and troubleshooting across the Vizrt stack
+- Built and configured advanced Mosart system setups for newsroom automation
+- Diagnosed device-to-device interoperability issues across the broadcast chain
+- Resolved engine-level playout problems, including Viz Engine and rendering issues
 - Integrated Viz Mosart with an Octopus NRCS via MOS Gateway
 - Diagnosed and resolved Harmonic Spectrum video server playback failures
 - Traced and fixed a Viz Artist Super Channel transition flickering issue down to Director assignment and I/O performance
-- Authored a comparative MSE 5.3.5 vs. 5.8.1 analysis covering licensing, the Frame Rendering API, and SSO integration
 - Documented multi-channel broadcast infrastructure with generated architecture diagrams
 
 </td>
