@@ -145,18 +145,6 @@ Designed and built the Atolium platform end to end — architecture, security, a
 > Great memories are built on open roads.
 
 </div>
-
-## 📡 Connect
-
-<div align="center">
-
-<a href="https://github.com/CihatEmreCinar"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E63946" /></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
-<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
-<a href="https://instagram.com/REPLACE_ME"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E63946" /></a>
-
-</div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:3A0000,100:0A0A0A&height=120&section=footer" width="100%" />
