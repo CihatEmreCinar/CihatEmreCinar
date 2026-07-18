@@ -137,10 +137,6 @@ Designed and built the Atolium platform end to end — architecture, security, a
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihatEmreCinar&bg_color=0A0A0A&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true" width="90%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=CihatEmreCinar&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
-
-<img src="https://raw.githubusercontent.com/CihatEmreCinar/CihatEmreCinar/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
 
 <br/>
