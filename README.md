@@ -83,7 +83,6 @@
 
 <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E63946" />
-<img src="https://img.shields.io/badge/JetBrains_Rider-0A0A0A?style=for-the-badge&logo=rider&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Visual_Studio-0A0A0A?style=for-the-badge&logo=visualstudio&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger&logoColor=E63946" />
