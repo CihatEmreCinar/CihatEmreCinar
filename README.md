@@ -21,45 +21,6 @@
 
 <br/>
 
-## ⚡ Signal
-
-I don't just write code — I build systems designed to survive real-world pressure: production traffic, live broadcast deadlines, and the kind of edge cases that only surface at 2 AM.
-
-By day, I design backend architectures and harden broadcast infrastructure running on Vizrt. By night, you'll usually find me on a long stretch of highway with a helmet full of riffs, or framing a horizon through a camera lens.
-
-Three disciplines. One mindset: build it right, or don't build it.
-
-<br/>
-
-## 🧭 About
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Engineering Focus
-- Backend architecture & system design
-- .NET / ASP.NET Core
-- React Native & mobile architecture
-- Broadcast graphics & playout systems
-- Docker, RabbitMQ, PostgreSQL
-- Continuous learning, always shipping
-
-</td>
-<td width="50%" valign="top">
-
-### 🌒 Off the Clock
-- Long-distance motorcycle riding
-- Rock & metal, loud and often
-- Landscape & street photography
-- Chasing golden hour
-- Open roads, open questions
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🧱 Tech Stack
 
