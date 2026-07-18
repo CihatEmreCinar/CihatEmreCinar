@@ -49,8 +49,7 @@
 
 <tr><td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=FRONTEND%20%26%20MOBILE&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=FRONTEND%20%2F%20MOBILE&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
 <br/>
 
 <img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
