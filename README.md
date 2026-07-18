@@ -161,14 +161,6 @@ Rock & metal, mostly — the kind of records that make long rides feel shorter.
 
 <br/>
 
-## 🌒 Off the Clock
-
-<div align="center">
-
-<img src="./assets/off-the-clock-ticker.svg" width="100%" alt="off the clock" />
-
-<br/><br/>
-
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
