@@ -24,7 +24,14 @@
 
 ## 🧱 Tech Stack
 
-**Backend**
+<div align="center">
+<table width="100%">
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BACKEND&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
@@ -38,25 +45,43 @@
 <img src="https://img.shields.io/badge/NGINX-0A0A0A?style=for-the-badge&logo=nginx&logoColor=E63946" />
 <img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E63946" />
 
-**Frontend & Mobile**
+</td></tr>
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=FRONTEND%20%26%20MOBILE&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=E63946" />
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E63946" />
 <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
 
-**Broadcast Systems**
+</td></tr>
 
-<img src="https://img.shields.io/badge/Vizrt-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Viz_Engine-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Viz_Artist-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Viz_Mosart-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Viz_Trio-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Graphic_Hub-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/MSE-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Harmonic-0A0A0A?style=for-the-badge&color=0A0A0A&labelColor=0A0A0A" />
+<tr><td align="center">
 
-**Tools**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BROADCAST%20SYSTEMS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vizrt-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Engine-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Artist-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Mosart-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Trio-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Graphic_Hub-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/MSE-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Harmonic-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+
+</td></tr>
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=TOOLS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E63946" />
@@ -65,7 +90,10 @@
 <img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger&logoColor=E63946" />
 
-<br/>
+</td></tr>
+
+</table>
+</div>
 
 ## 🗺️ Experience
 
