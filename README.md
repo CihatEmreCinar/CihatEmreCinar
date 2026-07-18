@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3A0000,100:8B0000&height=260&section=header&text=EMRE%20%C3%87INAR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Broadcast%20Systems%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3A0000,100:8B0000&height=260&section=header&text=EMRE%20%C3%87INAR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Broadcast%20Systems%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/CihatEmreCinar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=Designing+Backend+Systems+That+Survive+Real+Load;Engineering+Broadcast+Infrastructure+on+Vizrt;Ride+%E2%80%A2+Build+%E2%80%A2+Repeat;Always+Learning.+Never+Standing+Still." alt="Typing SVG" />
