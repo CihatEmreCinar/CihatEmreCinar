@@ -145,29 +145,13 @@ Designed and built the Atolium platform end to end — architecture, security, a
 
 <br/>
 
-## 🎧 Music
-
-Rock & metal, mostly — the kind of records that make long rides feel shorter.
-
-<img src="https://img.shields.io/badge/Metallica-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/Architects-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/Linkin_Park-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/Breaking_Benjamin-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/Three_Days_Grace-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/Sleep_Token-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-
-<!-- Optional: live Spotify status. Requires deploying https://github.com/kittinan/spotify-github-readme-stats or similar with your own Spotify auth token, then swapping the URL below. -->
-<!-- <img src="https://YOUR-SPOTIFY-DEPLOYMENT.vercel.app/api/spotify" width="450" /> -->
-
-<br/>
-
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
 ### 🏍️ Garage
 **Current:** Honda CB125F
-**Dream Garage:** Triumph Bonneville · Indian Scout · Harley-Davidson Sportster · Kawasaki Eliminator
+**Dream Garage:** Triumph Bonneville - Harley-Davidson Sportster · Kawasaki Eliminator
 
 </td>
 <td width="34%" valign="top" align="center">
