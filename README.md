@@ -145,36 +145,6 @@ Designed and built the Atolium platform end to end — architecture, security, a
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🏍️ Garage
-**Current:** Honda CB125F
-**Dream Garage:** Triumph Bonneville - Harley-Davidson Sportster · Kawasaki Eliminator
-
-</td>
-<td width="34%" valign="top" align="center">
-
-### 🎧 Music
-Rock & metal, mostly.
-
-`Metallica` `Architects` `Linkin Park`
-`Breaking Benjamin` `Three Days Grace` `Sleep Token`
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 📷 Photography
-Landscape · Street · Travel
-Golden Hour · Nature
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 > Good software is built with patience.
 > Great memories are built on open roads.
 
