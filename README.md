@@ -67,28 +67,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-### Atolium — Community Platform
-**Status:** 🟢 Active Development
-
-A community platform connecting employees, employers, and venues through a role-isolated mobile experience backed by a hardened ASP.NET Core API.
-
-**Highlights**
-- Role-based navigation with three fully isolated flows — employee, employer, cafe owner
-- Instagram-style social feed: multi-photo posts, pre-signed URL media uploads, infinite scroll via TanStack Query, Hacker News-style ranking
-- End-to-end push notification pipeline with a shared `IPushNotificationSender` service and EAS build integration
-- Full security hardening pass across authentication, RBAC enforcement, file upload validation, and rate limiting
-
-**Stack:** `React Native` `Expo Router` `TypeScript` `TanStack Query` · `ASP.NET Core` `PostgreSQL` `RabbitMQ`
-
-<img src="https://img.shields.io/badge/Repo-CommunityPlatformMobile-0A0A0A?style=for-the-badge&logo=github&logoColor=E63946" alt="mobile repo" href="https://github.com/CihatEmreCinar/CommunityPlatformMobile" />
-<a href="https://github.com/CihatEmreCinar/CommunityPlatformMobile"><img src="https://img.shields.io/badge/View-Mobile%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=E63946" /></a>
-<a href="https://github.com/CihatEmreCinar/atolium-backend"><img src="https://img.shields.io/badge/View-Backend%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=E63946" /></a>
 
 </td>
 </tr>
