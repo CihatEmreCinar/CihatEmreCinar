@@ -161,31 +161,48 @@ Rock & metal, mostly — the kind of records that make long rides feel shorter.
 
 <br/>
 
-## 🏍️ Garage
+## 🌒 Off the Clock
 
-<table>
-<tr><td>🏍️</td><td><b>Current</b></td><td>Honda CB125F</td></tr>
-<tr><td>🎯</td><td><b>Dream Garage</b></td><td>Triumph Bonneville · Indian Scout · Harley-Davidson Sportster · Kawasaki Eliminator</td></tr>
+<div align="center">
+
+<img src="./assets/off-the-clock-ticker.svg" width="100%" alt="off the clock" />
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🏍️ Garage
+**Current:** Honda CB125F
+**Dream Garage:** Triumph Bonneville · Indian Scout · Harley-Davidson Sportster · Kawasaki Eliminator
+
+</td>
+<td width="34%" valign="top" align="center">
+
+### 🎧 Music
+Rock & metal, mostly.
+
+`Metallica` `Architects` `Linkin Park`
+`Breaking Benjamin` `Three Days Grace` `Sleep Token`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📷 Photography
+Landscape · Street · Travel
+Golden Hour · Nature
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 📷 Photography
-
-<img src="https://img.shields.io/badge/-Landscape-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/-Street-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/-Travel-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/-Golden_Hour-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-<img src="https://img.shields.io/badge/-Nature-0A0A0A?style=flat-square&labelColor=0A0A0A&color=C7C7C7" />
-
-<br/>
-
-## 🗿 Motto
-
 > Good software is built with patience.
 > Great memories are built on open roads.
 
-<br/>
+</div>
 
 ## 📡 Connect
 
