@@ -67,30 +67,6 @@
 
 <br/>
 
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### Dual-Axis Solar Tracker
-**Status:** 🔵 Personal / R&D
-
-An embedded control system tracking the sun across two axes using astronomical positioning rather than simple light sensors.
-
-**Highlights**
-- Astronomical positioning via SolTrack v2.2, selected for Arduino compatibility
-- Explored fuzzy logic and genetic-algorithm-based control strategies for tracking precision
-- Arduino-driven embedded control loop
-
-**Stack:** `Arduino` `C++` `Embedded Systems`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🗺️ Experience
 
 <table width="100%">
