@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="60%" stop-color="#111114"/>
+      <stop offset="100%" stop-color="#1A1A1A"/>
+    </linearGradient>
+    <linearGradient id="rooftop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#sky)"/>
+
+  <g fill="#141417">
+    <rect x="40"  y="220" width="70"  height="280"/>
+    <rect x="120" y="160" width="55"  height="340"/>
+    <rect x="190" y="260" width="90"  height="240"/>
+    <rect x="1330" y="200" width="60" height="300"/>
+    <rect x="1400" y="140" width="80" height="360"/>
+    <rect x="1490" y="240" width="70" height="260"/>
+  </g>
+  <g fill="#E63946" opacity="0.55">
+    <rect x="55" y="250" width="6" height="8"/>
+    <rect x="135" y="200" width="6" height="8"/>
+    <rect x="210" y="300" width="6" height="8"/>
+    <rect x="1345" y="240" width="6" height="8"/>
+    <rect x="1420" y="180" width="6" height="8"/>
+    <rect x="1510" y="280" width="6" height="8"/>
+  </g>
+
+  <g stroke="#8C8C99" stroke-width="1.4" opacity="0.35">
+    <line x1="200" y1="-40" x2="180" y2="60">
+      <animate attributeName="y1" values="-40;500" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="60;600" dur="1.1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="500" y1="-60" x2="480" y2="40">
+      <animate attributeName="y1" values="-60;500" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="40;600" dur="0.9s" repeatCount="indefinite"/>
+    </line>
+    <line x1="900" y1="-30" x2="880" y2="70">
+      <animate attributeName="y1" values="-30;500" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="70;600" dur="1.3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="1200" y1="-50" x2="1180" y2="50">
+      <animate attributeName="y1" values="-50;500" dur="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="50;600" dur="1.0s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <rect x="0" y="420" width="1600" height="80" fill="url(#rooftop)"/>
+  <line x1="0" y1="420" x2="1600" y2="420" stroke="#E63946" stroke-width="1.5" opacity="0.5"/>
+
+  <g transform="translate(1040,392)" stroke="#E4E4E8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <circle cx="-58" cy="34" r="20"/>
+    <circle cx="58" cy="34" r="20"/>
+    <path d="M-58,34 L-20,10 L20,10 L58,34 M-20,10 L-14,-16 M-14,-16 L10,-20 M-30,4 L26,4"/>
+  </g>
+
+  <g transform="translate(420,368)">
+    <path d="M-70,40 L70,40 L84,54 L-84,54 Z" fill="#0F0F10" stroke="#3A3A3F"/>
+    <rect x="-64" y="-42" width="128" height="82" rx="4" fill="#0C0C0D" stroke="#3A3A3F" stroke-width="2"/>
+    <rect x="-56" y="-36" width="112" height="70" fill="#111114"/>
+    <text x="-50" y="-20" font-family="monospace" font-size="7" fill="#4ADE80">$ docker ps</text>
+    <text x="-50" y="-9"  font-family="monospace" font-size="6" fill="#8C8C99">api · redis · rabbitmq</text>
+    <text x="-50" y="2"   font-family="monospace" font-size="6" fill="#8C8C99">postgres · gateway</text>
+    <circle cx="44" cy="-24" r="3" fill="#4ADE80">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="44" cy="-14" r="3" fill="#4ADE80">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#E63946" opacity="0.4">
+    <circle cx="250" cy="60" r="1.5">
+      <animate attributeName="cy" values="60;460" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="20" r="1.5">
+      <animate attributeName="cy" values="20;460" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="80" r="1.5">
+      <animate attributeName="cy" values="80;460" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="800" y="120" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" letter-spacing="10" fill="#FFFFFF" font-weight="200">BUILD. RIDE. EXPLORE.</text>
+  <text x="800" y="150" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="4" fill="#8C8C99">EMRE OS · v2.6 STABLE · "LONG ROAD"</text>
+</svg>
