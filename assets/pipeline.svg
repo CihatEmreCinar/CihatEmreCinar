@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="node" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#151517"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="220" fill="#0A0A0A"/>
+
+  <line x1="100" y1="90" x2="1500" y2="90" stroke="#3A3A3F" stroke-width="2"/>
+  <line x1="100" y1="90" x2="1500" y2="90" stroke="#E63946" stroke-width="2" stroke-dasharray="14 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="0;-480" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <g font-family="monospace">
+    <g transform="translate(100,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Wake Up</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(300,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Coffee</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(500,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Write Code</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(700,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Build</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(900,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Test</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(1100,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Deploy</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(1300,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Ride</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+    <g transform="translate(1500,90)"><rect x="-68" y="-30" width="136" height="60" rx="8" fill="url(#node)" stroke="#3A3A3F"/><circle r="3" fill="#4ADE80"/><text x="0" y="-40" text-anchor="middle" font-size="13" fill="#FFFFFF">Learn</text><text x="0" y="26" text-anchor="middle" font-size="10" fill="#4ADE80">✓ SUCCESS</text></g>
+  </g>
+</svg>
