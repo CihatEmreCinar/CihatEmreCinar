@@ -1,17 +1,153 @@
 <div align="center">
-<img src="./assets/hero-skyline.svg" width="100%" alt="EMRE OS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3A0000,100:8B0000&height=260&section=header&text=EMRE%20%C3%87INAR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Broadcast%20Systems%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+
+<a href="https://github.com/CihatEmreCinar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=Designing+Backend+Systems+That+Survive+Real+Load;Engineering+Broadcast+Infrastructure+on+Vizrt;Ride+%E2%80%A2+Build+%E2%80%A2+Repeat;Always+Learning.+Never+Standing+Still." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-System%20Architect-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/-Broadcast%20Systems%20Engineer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/-Backend%20Developer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OS-EMRE_OS-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/VERSION-v2.6_STABLE-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=4ADE80" />
-<img src="https://img.shields.io/badge/CODENAME-Long_Road-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=8C8C99" />
+<img src="https://komarev.com/ghpvc/?username=CihatEmreCinar&label=PROFILE+VIEWS&color=E63946&style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/github/followers/CihatEmreCinar?style=for-the-badge&color=E63946&labelColor=0A0A0A&label=FOLLOWERS" />
+
 </div>
 
 <br/>
 
-## `$ ssh github.com/emrecinar`
+
+## 🧱 Tech Stack
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=900&color=4ADE80&background=0A0A0A00&center=true&vCenter=true&width=760&lines=Resolving+host...;Connected.;Booting+EMRE+OS+v2.6+%22Long+Road%22...;Loading+modules..." alt="boot sequence" />
+<table width="100%">
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BACKEND&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
+<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=E63946" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=E63946" />
+<img src="https://img.shields.io/badge/SQL_Server-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=E63946" />
+<img src="https://img.shields.io/badge/RabbitMQ-0A0A0A?style=for-the-badge&logo=rabbitmq&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=E63946" />
+<img src="https://img.shields.io/badge/MinIO-0A0A0A?style=for-the-badge&logo=minio&logoColor=E63946" />
+<img src="https://img.shields.io/badge/NGINX-0A0A0A?style=for-the-badge&logo=nginx&logoColor=E63946" />
+<img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E63946" />
+
+</td></tr>
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=FRONTEND%20%2F%20MOBILE&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+<br/>
+
+<img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=E63946" />
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E63946" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
+
+</td></tr>
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BROADCAST%20SYSTEMS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vizrt-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Engine-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Artist-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Mosart-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Viz_Trio-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Graphic_Hub-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/MSE-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+<img src="https://img.shields.io/badge/Harmonic-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
+
+</td></tr>
+
+<tr><td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=TOOLS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Visual_Studio-0A0A0A?style=for-the-badge&logo=visualstudio&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger&logoColor=E63946" />
+
+</td></tr>
+
+</table>
 </div>
+
+## 🗺️ Experience
+
+<table width="100%">
+<tr>
+<td width="15%" valign="top"><b>Broadcast<br/>Systems</b></td>
+<td width="85%">
+
+Vizrt Software Support — end-to-end ownership of Vizrt deployments across the ecosystem: Viz Mosart, Viz Artist, Viz Engine, MSE.
+
+- End-to-end Vizrt installation, configuration, and version control across environments
+- Licensing management and troubleshooting across the Vizrt stack
+- Built and configured advanced Mosart system setups for newsroom automation
+- Diagnosed device-to-device interoperability issues across the broadcast chain
+- Resolved engine-level playout problems, including Viz Engine and rendering issues
+- Integrated Viz Mosart with an Octopus NRCS via MOS Gateway
+- Diagnosed and resolved Harmonic Spectrum video server playback failures
+- Traced and fixed a Viz Artist Super Channel transition flickering issue down to Director assignment and I/O performance
+- Documented multi-channel broadcast infrastructure with generated architecture diagrams
+
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Backend &<br/>Mobile</b></td>
+<td width="85%">
+
+Designed and built the Atolium platform end to end — architecture, security, and mobile UX — across two repositories.
+
+- Designed the social feed architecture and role-based navigation system from the ground up
+- Led a full security audit and hardening pass across authentication, authorization, and file handling
+- Built the push notification infrastructure as a shared, reusable service
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CihatEmreCinar&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=FFFFFF&icon_color=E63946&border_color=1A1A1A" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatEmreCinar&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=FFFFFF&border_color=1A1A1A" width="30%" />
+
+<img src="https://streak-stats.demolab.com?user=CihatEmreCinar&hide_border=true&background=0A0A0A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7C7C7" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CihatEmreCinar&bg_color=0A0A0A&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
+> Good software is built with patience.
+> Great memories are built on open roads.
+
+</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:3A0000,100:0A0A0A&height=120&section=footer" width="100%" />
