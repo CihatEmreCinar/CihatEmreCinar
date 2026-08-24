@@ -1,153 +1,318 @@
+# GitHub Profile README
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3A0000,100:8B0000&height=260&section=header&text=EMRE%20%C3%87INAR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Broadcast%20Systems%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:071A2B,55:0F3D46,78:0B7285,100:450A0A&height=250&section=header&text=CIHAT%20EMRE%20%C3%87INAR&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEMS%20%2F%2F%20BROADCAST&descAlignY=57&descSize=16&animation=fadeIn" width="100%" />
+
+<br/>
+
+```text
+SOFTWARE  ×  INFRASTRUCTURE  ×  BROADCAST
+
+I build systems.
+I operate them.
+I understand what happens when they break.
+```
+
+<br/>
 
 <a href="https://github.com/CihatEmreCinar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=Designing+Backend+Systems+That+Survive+Real+Load;Engineering+Broadcast+Infrastructure+on+Vizrt;Ride+%E2%80%A2+Build+%E2%80%A2+Repeat;Always+Learning.+Never+Standing+Still." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1700&color=2DD4BF&center=true&vCenter=true&width=820&lines=Backend+engineering+meets+real-world+infrastructure.;Building+systems+designed+to+survive+production.;Broadcast.+Backend.+Infrastructure.;BUILD+%2F%2F+OPERATE+%2F%2F+RECOVER." />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-System%20Architect-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/-Broadcast%20Systems%20Engineer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/-Backend%20Developer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CihatEmreCinar&label=PROFILE+VIEWS&color=E63946&style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/github/followers/CihatEmreCinar?style=for-the-badge&color=E63946&labelColor=0A0A0A&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-020617?style=for-the-badge&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/BROADCAST_SYSTEMS-020617?style=for-the-badge&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/BACKEND_ENGINEERING-020617?style=for-the-badge&labelColor=020617&color=7F1D1D" />
 
 </div>
 
 <br/>
 
+---
 
-## 🧱 Tech Stack
+## `01 // PROFILE`
+
+```text
+ROLE        Software Engineer / IT Systems / Broadcast
+FOCUS       Backend Systems · Infrastructure · Reliability
+APPROACH    Build clean systems. Operate them deliberately.
+LOCATION    Istanbul, Türkiye
+```
+
+I work at the intersection of **software engineering and infrastructure**.
+
+My background spans backend development, system administration, virtualization, databases, networking and broadcast infrastructure.
+
+I am especially interested in systems where software is not isolated from the environment it runs in — production systems, distributed services, storage, networking, automation and recovery.
+
+---
+
+## `02 // CURRENT FOCUS`
 
 <div align="center">
-<table width="100%">
 
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BACKEND&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=E63946" />
-<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=E63946" />
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=E63946" />
-<img src="https://img.shields.io/badge/SQL_Server-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=E63946" />
-<img src="https://img.shields.io/badge/RabbitMQ-0A0A0A?style=for-the-badge&logo=rabbitmq&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=E63946" />
-<img src="https://img.shields.io/badge/MinIO-0A0A0A?style=for-the-badge&logo=minio&logoColor=E63946" />
-<img src="https://img.shields.io/badge/NGINX-0A0A0A?style=for-the-badge&logo=nginx&logoColor=E63946" />
-<img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E63946" />
-
-</td></tr>
-
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=FRONTEND%20%2F%20MOBILE&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-<br/>
-
-<img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=E63946" />
-<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E63946" />
-<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E63946" />
-
-</td></tr>
-
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=BROADCAST%20SYSTEMS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Vizrt-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Viz_Engine-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Viz_Artist-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Viz_Mosart-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Viz_Trio-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Graphic_Hub-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/MSE-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-<img src="https://img.shields.io/badge/Harmonic-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E63946" />
-
-</td></tr>
-
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8B0000,100:E63946&height=42&text=TOOLS&fontColor=FFFFFF&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Visual_Studio-0A0A0A?style=for-the-badge&logo=visualstudio&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger&logoColor=E63946" />
-
-</td></tr>
-
-</table>
-</div>
-
-## 🗺️ Experience
-
-<table width="100%">
+<table>
 <tr>
-<td width="15%" valign="top"><b>Broadcast<br/>Systems</b></td>
-<td width="85%">
+<td align="center" width="25%">
 
-Vizrt Software Support — end-to-end ownership of Vizrt deployments across the ecosystem: Viz Mosart, Viz Artist, Viz Engine, MSE.
+### BACKEND
 
-- End-to-end Vizrt installation, configuration, and version control across environments
-- Licensing management and troubleshooting across the Vizrt stack
-- Built and configured advanced Mosart system setups for newsroom automation
-- Diagnosed device-to-device interoperability issues across the broadcast chain
-- Resolved engine-level playout problems, including Viz Engine and rendering issues
-- Integrated Viz Mosart with an Octopus NRCS via MOS Gateway
-- Diagnosed and resolved Harmonic Spectrum video server playback failures
-- Traced and fixed a Viz Artist Super Channel transition flickering issue down to Director assignment and I/O performance
-- Documented multi-channel broadcast infrastructure with generated architecture diagrams
+.NET
+ASP.NET Core
+Distributed Services
+API Architecture
 
 </td>
-</tr>
-<tr>
-<td width="15%" valign="top"><b>Backend &<br/>Mobile</b></td>
-<td width="85%">
+<td align="center" width="25%">
 
-Designed and built the Atolium platform end to end — architecture, security, and mobile UX — across two repositories.
+### SYSTEMS
 
-- Designed the social feed architecture and role-based navigation system from the ground up
-- Led a full security audit and hardening pass across authentication, authorization, and file handling
-- Built the push notification infrastructure as a shared, reusable service
+Windows / Linux
+VMware
+Networking
+Storage
+
+</td>
+<td align="center" width="25%">
+
+### BROADCAST
+
+Vizrt
+Mosart
+Viz Engine
+MSE
+
+</td>
+<td align="center" width="25%">
+
+### RELIABILITY
+
+Backup
+Disaster Recovery
+Monitoring
+Automation
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 📊 GitHub Analytics
+---
+
+## `03 // TOOLBOX`
+
+### Backend Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/.NET-020617?style=flat-square&logo=dotnet&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-020617?style=flat-square&logo=dotnet&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/C%23-020617?style=flat-square&logo=csharp&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/SQL_Server-020617?style=flat-square&logo=microsoftsqlserver&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Redis-020617?style=flat-square&logo=redis&logoColor=DC2626" />
+<img src="https://img.shields.io/badge/RabbitMQ-020617?style=flat-square&logo=rabbitmq&logoColor=DC2626" />
+<img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/NGINX-020617?style=flat-square&logo=nginx&logoColor=2DD4BF" />
+
+</p>
+
+### Frontend / Mobile
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/React_Native-020617?style=flat-square&logo=react&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Expo-020617?style=flat-square&logo=expo&logoColor=F8FAFC" />
+
+</p>
+
+### Infrastructure
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Windows_Server-020617?style=flat-square&logo=windows&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/VMware-020617?style=flat-square&logo=vmware&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Active_Directory-020617?style=flat-square&logo=microsoft&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Networking-020617?style=flat-square&logo=cisco&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/PowerShell-020617?style=flat-square&logo=powershell&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Bash-020617?style=flat-square&logo=gnubash&logoColor=F8FAFC" />
+
+</p>
+
+### Broadcast Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/VIZRT-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/VIZ_ENGINE-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/VIZ_ARTIST-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/VIZ_MOSART-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/MSE-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/GRAPHIC_HUB-020617?style=flat-square&labelColor=020617&color=0F766E" />
+<img src="https://img.shields.io/badge/HARMONIC-020617?style=flat-square&labelColor=020617&color=7F1D1D" />
+
+</p>
+
+---
+
+## `04 // EXPERIENCE`
+
+### `BROADCAST SYSTEMS`
+
+**Vizrt Software Support / Broadcast Infrastructure**
+
+Working across broadcast software, newsroom automation and playout infrastructure.
+
+```text
+Viz Mosart
+    ↓
+MOS Gateway
+    ↓
+NRCS / Octopus
+    ↓
+MSE
+    ↓
+Viz Engine
+    ↓
+Video / Graphics Output
+```
+
+Selected work:
+
+* Installation, configuration and lifecycle management across Vizrt environments
+* Viz Mosart newsroom automation setup and troubleshooting
+* Viz Engine playout and rendering diagnostics
+* MSE and Graphic Hub environment troubleshooting
+* MOS Gateway integration between Viz Mosart and Octopus NRCS
+* Harmonic Spectrum playback diagnostics
+* Device interoperability troubleshooting across the broadcast chain
+* Viz Artist scene and transition debugging
+* Broadcast architecture documentation and infrastructure mapping
+
+---
+
+### `SOFTWARE ENGINEERING`
+
+**Atolium**
+
+Designed and developed a platform spanning backend architecture, security and mobile applications.
+
+```text
+Mobile
+  │
+  ▼
+API Gateway / Backend
+  │
+  ├── Authentication
+  ├── Authorization
+  ├── Social Feed
+  ├── Notifications
+  ├── File Handling
+  └── Data Services
+```
+
+Selected work:
+
+* Designed the social feed architecture
+* Implemented role-based application navigation
+* Performed authentication and authorization security hardening
+* Hardened file handling and upload workflows
+* Designed reusable push notification infrastructure
+* Worked across backend and React Native application layers
+
+---
+
+## `05 // ENGINEERING MINDSET`
+
+```text
+BUILD
+    ↓
+TEST
+    ↓
+DEPLOY
+    ↓
+OBSERVE
+    ↓
+FAIL
+    ↓
+RECOVER
+    ↓
+IMPROVE
+```
+
+Software engineering does not end when the application compiles.
+
+I care about what happens after deployment:
+
+**latency · storage · networking · observability · failure · recovery**
+
+---
+
+## `06 // GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CihatEmreCinar&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=FFFFFF&icon_color=E63946&border_color=1A1A1A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatEmreCinar&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E63946&text_color=FFFFFF&border_color=1A1A1A" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=CihatEmreCinar&show_icons=true&count_private=true&hide_border=true&bg_color=020617&title_color=2DD4BF&text_color=CBD5E1&icon_color=DC2626" width="55%" />
 
-<img src="https://streak-stats.demolab.com?user=CihatEmreCinar&hide_border=true&background=0A0A0A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7C7C7" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CihatEmreCinar&bg_color=0A0A0A&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=E63946&hide_border=true" width="90%" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatEmreCinar&layout=compact&hide_border=true&bg_color=020617&title_color=2DD4BF&text_color=CBD5E1" width="36%" />
 
 <br/>
 
-> Good software is built with patience.
-> Great memories are built on open roads.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CihatEmreCinar&bg_color=020617&color=94A3B8&line=14B8A6&point=DC2626&area=true&area_color=0F766E&hide_border=true" width="92%" />
 
 </div>
+
+---
+
+## `07 // STATUS`
+
+```text
+> whoami
+
+Cihat Emre Çınar
+
+> role
+
+Software Engineer
+Broadcast Systems Engineer
+Infrastructure-minded Backend Developer
+
+> interests
+
+Distributed Systems
+Backend Architecture
+Virtualization
+Backup & Disaster Recovery
+Broadcast Infrastructure
+
+> philosophy
+
+Build clean.
+Operate reliably.
+Recover deliberately.
+```
+
+<div align="center">
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:3A0000,100:0A0A0A&height=120&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=CihatEmreCinar&label=PROFILE+VIEWS&color=0F766E&style=flat-square&labelColor=020617" />
+
+<img src="https://img.shields.io/github/followers/CihatEmreCinar?style=flat-square&color=7F1D1D&labelColor=020617&label=FOLLOWERS" />
+
+<br/><br/>
+
+**SOFTWARE // SYSTEMS // RELIABILITY**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,22:071A2B,55:0F3D46,78:020617,100:000000&height=120&section=footer" width="100%" />
+
+</div>
